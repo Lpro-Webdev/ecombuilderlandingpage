@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Here’s Who Should Work With Us 🙋‍♂️',
+    paragraph: 'If you are a seasoned pro in the e-commerce industry or you are just getting started on Amazon or Shopify and need high-converting video ads without the expensive cost that comes from traditional production companies, then you are on the right landing page.OR, if any of these apply to you:',
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Results
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  You AGREE it's better to MINIMIZE RISK and MAXIMIZE RESULTS
                     </p>
                 </div>
               </div>
