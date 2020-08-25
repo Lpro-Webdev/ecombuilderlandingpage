@@ -75,7 +75,7 @@ const FeaturesSplit = ({
                 Shopify store ( Design & Full Setup)
                   </h3>
                 <p className="m-0 mb-24">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  We provide complete Ecommerce coverage including Shopify Store Setup, Premium Themes, Mobile App, SEO, Ads and Marketing, Conversion Optimization, Research and Discovery, Content Marketing to complete re-building of stores using US suppliers.
                   </p>
                   <div className="reveal-from-bottom" data-reveal-delay="600">
                   <Button tag="a" color="dark" wideMobile href="https://ecombuilder.spp.io/portal/services">
