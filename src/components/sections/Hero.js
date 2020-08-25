@@ -65,15 +65,16 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              5,000+ Creatives Produced Since 2018.From Store to video social media Ads, You Name It.
-              We've Shot it.
+              We approach every project with a carefully selected team of designers, solutions specialists, developers, project managers, and, strategic technologists. We deliver excellent eCommerce services based on our expertise, with certified technical talent being our key resource.
+
+
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://ecombuilder.spp.io/signup">
                     Get started
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/react-template/">
+                  <Button tag="a" color="dark" wideMobile href="https://ecombuilder.spp.io/login/portal/services">
                     View Our services
                     </Button>
                 </ButtonGroup>
