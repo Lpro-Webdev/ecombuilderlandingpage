@@ -52,8 +52,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'We are experts in',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Services And Capabilities',
+    paragraph: 'ExGrow your online store revenue and enhance the performance with our support eCommerce services and solution specialists.'
   };
 
   return (
@@ -78,7 +78,7 @@ const FeaturesSplit = ({
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
                   <div className="reveal-from-bottom" data-reveal-delay="600">
-                  <Button tag="a" color="dark" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="dark" wideMobile href="https://ecombuilder.spp.io/portal/services">
                     Get started
                     </Button>
               </div>
@@ -102,16 +102,16 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Amazon FBA
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Amazon Account Management & Customer Support
                   </h3>
                 <p className="m-0 mb-24">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Let us manage your Amazon account to make sure everything goes as planned. We will also take care of your inventory and respond to customer messages.
                   </p>
                   <div className="reveal-from-bottom" data-reveal-delay="600">
-                  <Button tag="a" color="dark" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="dark" wideMobile href="https://ecombuilder.spp.io/portal/services">
                     Get started
                     </Button>
               </div>
@@ -123,7 +123,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/amazon full listing and ads campaign ecombuilder.png')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -133,16 +133,16 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  E-commerce Ads
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Creatives On-Demand
                   </h3>
                 <p className="m-0 mb-24">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                We combine traditional direct response advertising and user generated content seamlessly into the social world to produce authentic, engaging video ads that inspires people to take action.
                   </p>
                   <div className="reveal-from-bottom" data-reveal-delay="600">
-                  <Button tag="a" color="dark" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="dark" wideMobile href="https://ecombuilder.spp.io/portal/services">
                     Get started
                     </Button>
               </div>
@@ -154,7 +154,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/dropshipping facebook video ads ecombuilder-01.png')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
