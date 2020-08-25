@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Customer testimonials',
-    paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
+    paragraph: 'We’ve designed hundreds of beautiful eCommerce stores for satisfied clients. Each new project we redesign carves, shapes and tweaks our process for the better.'
   };
 
   return (
