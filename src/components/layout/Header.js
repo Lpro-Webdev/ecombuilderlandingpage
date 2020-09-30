@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="/services" onClick={closeMenu}>Services</Link>
+                      <Link to="https://ecombuilder.spp.io/portal/services" onClick={closeMenu}>Services</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link  to="/clients" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <Link to="https://ecombuilder.spp.io/signup" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
                         
                       </li>
                     </ul>}
