@@ -71,10 +71,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://ecombuilder.spp.io/signup">
+                  <Button tag="a" color="primary" wideMobile href="https://clients.ecombrandbuilder.com/signup">
                     Get started
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://ecombuilder.spp.io/login/portal/services">
+                  <Button tag="a" color="dark" wideMobile href="https://clients.ecombrandbuilder.com/login/portal/services">
                     View Our services
                     </Button>
                 </ButtonGroup>
@@ -83,7 +83,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/174002812"
+              data-video="https://player.vimeo.com/video/468794855"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
