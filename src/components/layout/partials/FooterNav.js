@@ -1,38 +1,28 @@
-import React from 'react';
-import classNames from 'classnames';
-import { Link } from 'react-router-dom';
+import React from "react";
+import classNames from "classnames";
+import { Link } from "react-router-dom";
 
-const FooterNav = ({
-  className,
-  ...props
-}) => {
-
-  const classes = classNames(
-    'footer-nav',
-    className
-  );
+const FooterNav = ({ className, ...props }) => {
+  const classes = classNames("footer-nav", className);
 
   return (
-    <nav
-      {...props}
-      className={classes}
-    >
+    <nav {...props} className={classes}>
       <ul className="list-reset">
         <li>
-          <Link to="https://www.facebook.com/ecombrandclub">Contact</Link>
+          <a href="https://www.facebook.com/ecombrandclub">Contact</a>
         </li>
         <li>
-          <Link to="https://www.facebook.com/ecombrandclub">About us</Link>
+          <a href="https://www.facebook.com/ecombrandclub">About us</a>
         </li>
         <li>
-          <Link to="https://www.facebook.com/ecombrandclub">FAQ's</Link>
+          <a href="https://www.facebook.com/ecombrandclub">FAQ's</a>
         </li>
         <li>
-          <Link to="https://www.facebook.com/ecombrandclub">Support</Link>
+          <a href="https://www.facebook.com/ecombrandclub">Support</a>
         </li>
       </ul>
     </nav>
   );
-}
+};
 
 export default FooterNav;
