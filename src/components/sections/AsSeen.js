@@ -23,7 +23,7 @@ const FeaturesTiles = ({
   ...props
 }) => {
   const outerClasses = classNames(
-    "features-tiles section",
+    "features-tiles-asseen section",
     topOuterDivider && "has-top-divider",
     bottomOuterDivider && "has-bottom-divider",
     hasBgColor && "has-bg-color",
@@ -53,15 +53,14 @@ const FeaturesTiles = ({
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
-            <div className="tiles-item reveal-from-bottom">
+            <div className="tiles-item-asseen reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
+                  <div className="features-tiles-item-image-asseen mb-16">
                     <Image
-                      src={require("./../../assets/images/feature-tile-icon-01.svg")}
+                      src={require("./../../assets/images/Fox_News-Logo.wine.svg")}
                       alt="Features tile icon 01"
-                      width={64}
-                      height={64}
+                      width={100}
                     />
                   </div>
                 </div>
@@ -69,17 +68,16 @@ const FeaturesTiles = ({
             </div>
 
             <div
-              className="tiles-item reveal-from-bottom"
+              className="tiles-item-asseen reveal-from-bottom"
               data-reveal-delay="200"
             >
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
+                  <div className="features-tiles-item-image-asseen-asseen mb-16">
                     <Image
-                      src={require("./../../assets/images/feature-tile-icon-02.svg")}
+                      src={require("./../../assets/images/NBC-News-01.svg")}
                       alt="Features tile icon 02"
-                      width={64}
-                      height={64}
+                      width={100}
                     />
                   </div>
                 </div>
@@ -87,17 +85,50 @@ const FeaturesTiles = ({
             </div>
 
             <div
-              className="tiles-item reveal-from-bottom"
+              className="tiles-item-asseen reveal-from-bottom"
               data-reveal-delay="400"
             >
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
+                  <div className="features-tiles-item-image-asseen mb-16">
                     <Image
-                      src={require("./../../assets/images/feature-tile-icon-03.svg")}
+                      src={require("./../../assets/images/CBS_Corporation-Logo.wine.svg")}
                       alt="Features tile icon 03"
-                      width={64}
-                      height={64}
+                      width={100}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              className="tiles-item-asseen reveal-from-bottom"
+              data-reveal-delay="200"
+            >
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image-asseen-asseen mb-16">
+                    <Image
+                      src={require("./../../assets/images/marketwatch-ar21.svg")}
+                      alt="Features tile icon 02"
+                      width={100}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div
+              className="tiles-item-asseen reveal-from-bottom"
+              data-reveal-delay="200"
+            >
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image-asseen-asseen mb-16">
+                    <Image
+                      src={require("./../../assets/images/USA_Today-Logo.wine.svg")}
+                      alt="Features tile icon 02"
+                      width={100}
                     />
                   </div>
                 </div>
