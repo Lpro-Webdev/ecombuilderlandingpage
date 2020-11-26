@@ -128,7 +128,7 @@ const FeaturesSplit = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://https://clients.ecombrandbuilder.com/portal/services"
+                    href="https://clients.ecombrandbuilder.com/portal/services"
                   >
                     Get started
                   </Button>
@@ -170,7 +170,7 @@ const FeaturesSplit = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://https://clients.ecombrandbuilder.com/portal/services"
+                    href="https://clients.ecombrandbuilder.com/portal/services"
                   >
                     Get started
                   </Button>
