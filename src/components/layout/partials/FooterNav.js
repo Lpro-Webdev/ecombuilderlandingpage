@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 import classNames from "classnames";
 
 const FooterNav = ({ className, ...props }) => {
@@ -19,6 +20,9 @@ const FooterNav = ({ className, ...props }) => {
         <li>
           <a href="https://www.facebook.com/ecombrandclub">Support</a>
         </li>
+        <Link to="/refund"> Refund Policy</Link>
+        <Link to="/privacy"> Privacy Policy</Link>
+        <Link to="/term"> Terms of Service</Link>
       </ul>
     </nav>
   );
