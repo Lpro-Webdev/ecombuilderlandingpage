@@ -122,6 +122,17 @@ const Header = ({
                         Services
                       </Button>
                     </li>
+                    <li>
+                      <Button
+                        tag="a"
+                        onClick={closeMenu}
+                        color="dark"
+                        wideMobile
+                        href="tel:+1916-965-8355"
+                      >
+                        Call now
+                      </Button>
+                    </li>
                   </ul>
                   {!hideSignin && (
                     <ul className="list-reset header-nav-right">
