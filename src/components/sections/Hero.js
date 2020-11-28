@@ -88,14 +88,6 @@ const Hero = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://clients.ecombrandbuilder.com/login/portal/services"
-                  >
-                    View Our services
-                  </Button>
-                  <Button
-                    tag="a"
-                    color="dark"
-                    wideMobile
                     href="tel:+1916-965-8355"
                   >
                     Call now
