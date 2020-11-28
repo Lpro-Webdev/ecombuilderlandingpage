@@ -92,6 +92,14 @@ const Hero = ({
                   >
                     View Our services
                   </Button>
+                  <Button
+                    tag="a"
+                    color="dark"
+                    wideMobile
+                    href="tel:+1916-965-8355"
+                  >
+                    Call now
+                  </Button>
                 </ButtonGroup>
               </div>
             </div>
