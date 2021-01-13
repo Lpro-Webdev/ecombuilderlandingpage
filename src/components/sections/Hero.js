@@ -80,7 +80,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://clients.ecombrandbuilder.com/signup"
+                    href="https://ecombrandclub.com/account/register"
                   >
                     Get started
                   </Button>

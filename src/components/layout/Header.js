@@ -117,7 +117,7 @@ const Header = ({
                         onClick={closeMenu}
                         color="dark"
                         wideMobile
-                        href="https://clients.ecombrandbuilder.com/portal/services"
+                        href=""
                       >
                         Services
                       </Button>
@@ -142,7 +142,7 @@ const Header = ({
                           onClick={closeMenu}
                           color="primary"
                           wideMobile
-                          href="https://clients.ecombrandbuilder.com/signup"
+                          href="https://ecombrandclub.com/account/register"
                         >
                           Sign up
                         </Button>

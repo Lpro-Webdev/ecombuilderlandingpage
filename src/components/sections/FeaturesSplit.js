@@ -84,7 +84,7 @@ const FeaturesSplit = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://clients.ecombrandbuilder.com/portal/services"
+                    href="https://ecombrandclub.com/collections/all"
                   >
                     Get started
                   </Button>
@@ -128,7 +128,7 @@ const FeaturesSplit = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://clients.ecombrandbuilder.com/portal/services"
+                    href="https://ecombrandclub.com/collections/all"
                   >
                     Get started
                   </Button>
@@ -170,7 +170,7 @@ const FeaturesSplit = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://clients.ecombrandbuilder.com/portal/services"
+                    href="https://ecombrandclub.com/collections/all"
                   >
                     Get started
                   </Button>

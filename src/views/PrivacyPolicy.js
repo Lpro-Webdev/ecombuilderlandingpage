@@ -524,7 +524,7 @@ const PrivacyPolicy = () => {
           to request access to the personal information we collect from you,
           change that information, or delete it in some circumstances. To
           request to review, update, or delete your personal information,
-          please visit: <a href="https://clients.ecombrandbuilder.com/">https://clients.ecombrandbuilder.com/</a>. We will respond to
+          please visit: <a href="https://ecombrandclub.com/policies/privacy-policy">https://ecombrandclub.com/policies/privacy-policy</a>. We will respond to
           your request within 30 days.
           <p></p>
         </div>
