@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.28667364.chunk.css",
-    "main.js": "/static/js/main.7244ede2.chunk.js",
-    "main.js.map": "/static/js/main.7244ede2.chunk.js.map",
+    "main.css": "/static/css/main.fc50c446.chunk.css",
+    "main.js": "/static/js/main.a943b6ae.chunk.js",
+    "main.js.map": "/static/js/main.a943b6ae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
-    "static/js/2.816ab0cb.chunk.js": "/static/js/2.816ab0cb.chunk.js",
-    "static/js/2.816ab0cb.chunk.js.map": "/static/js/2.816ab0cb.chunk.js.map",
+    "static/js/2.304fcec7.chunk.js": "/static/js/2.304fcec7.chunk.js",
+    "static/js/2.304fcec7.chunk.js.map": "/static/js/2.304fcec7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fc9161232ca68022836961f01aa4c5c7.js": "/precache-manifest.fc9161232ca68022836961f01aa4c5c7.js",
+    "precache-manifest.f2c1d196f47a4c29d2d051e7c527b3c4.js": "/precache-manifest.f2c1d196f47a4c29d2d051e7c527b3c4.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.28667364.chunk.css.map": "/static/css/main.28667364.chunk.css.map",
-    "static/js/2.816ab0cb.chunk.js.LICENSE.txt": "/static/js/2.816ab0cb.chunk.js.LICENSE.txt",
+    "static/css/main.fc50c446.chunk.css.map": "/static/css/main.fc50c446.chunk.css.map",
+    "static/js/2.304fcec7.chunk.js.LICENSE.txt": "/static/js/2.304fcec7.chunk.js.LICENSE.txt",
+    "static/media/CBS_Corporation-Logo.wine.svg": "/static/media/CBS_Corporation-Logo.wine.921c11ba.svg",
+    "static/media/Fox_News-Logo.wine.svg": "/static/media/Fox_News-Logo.wine.46c694eb.svg",
+    "static/media/NBC-News-01.svg": "/static/media/NBC-News-01.669bbae0.svg",
+    "static/media/USA_Today-Logo.wine.svg": "/static/media/USA_Today-Logo.wine.6d0930c2.svg",
     "static/media/amazon full listing and ads campaign ecombuilder.png": "/static/media/amazon full listing and ads campaign ecombuilder.1a3ad51c.png",
     "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
     "static/media/dropshipping facebook video ads ecombuilder-01.png": "/static/media/dropshipping facebook video ads ecombuilder-01.c1b81f19.png",
@@ -20,12 +24,13 @@
     "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
     "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
     "static/media/logo.svg": "/static/media/logo.ffbdbd9d.svg",
+    "static/media/marketwatch-ar21.svg": "/static/media/marketwatch-ar21.71b51a21.svg",
     "static/media/video-placeholder.jpg": "/static/media/video-placeholder.a622fc5d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.816ab0cb.chunk.js",
-    "static/css/main.28667364.chunk.css",
-    "static/js/main.7244ede2.chunk.js"
+    "static/js/2.304fcec7.chunk.js",
+    "static/css/main.fc50c446.chunk.css",
+    "static/js/main.a943b6ae.chunk.js"
   ]
 }

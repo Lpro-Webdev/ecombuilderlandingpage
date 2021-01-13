@@ -1,27 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63e9a4470cb0b090d962a7eb3a32c809",
+    "revision": "337b89a43454c5669667abe3eda07f13",
     "url": "/index.html"
   },
   {
-    "revision": "05fe1ddb47ca0a99a7fd",
-    "url": "/static/css/main.28667364.chunk.css"
+    "revision": "c9b3325106dafe05d9d0",
+    "url": "/static/css/main.fc50c446.chunk.css"
   },
   {
-    "revision": "a5306840473bba4cfdb9",
-    "url": "/static/js/2.816ab0cb.chunk.js"
+    "revision": "6e9246a1ebbea9cc61f6",
+    "url": "/static/js/2.304fcec7.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/static/js/2.816ab0cb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.304fcec7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05fe1ddb47ca0a99a7fd",
-    "url": "/static/js/main.7244ede2.chunk.js"
+    "revision": "c9b3325106dafe05d9d0",
+    "url": "/static/js/main.a943b6ae.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
     "url": "/static/js/runtime-main.b8b9f84b.js"
+  },
+  {
+    "revision": "921c11baf0088ee5fbe705a6379e5ead",
+    "url": "/static/media/CBS_Corporation-Logo.wine.921c11ba.svg"
+  },
+  {
+    "revision": "46c694eb35bb1830351214f9503f19c2",
+    "url": "/static/media/Fox_News-Logo.wine.46c694eb.svg"
+  },
+  {
+    "revision": "669bbae0e0e1a6a012d62d3281117196",
+    "url": "/static/media/NBC-News-01.669bbae0.svg"
+  },
+  {
+    "revision": "6d0930c217647bf3579902f905c4c02e",
+    "url": "/static/media/USA_Today-Logo.wine.6d0930c2.svg"
   },
   {
     "revision": "1a3ad51cf6ecb562a2d2fb3047a2b016",
@@ -62,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ffbdbd9dbf1cbfb8dd8bb28d67def20a",
     "url": "/static/media/logo.ffbdbd9d.svg"
+  },
+  {
+    "revision": "71b51a2113212f9391f4ccbd2dc637a8",
+    "url": "/static/media/marketwatch-ar21.71b51a21.svg"
   },
   {
     "revision": "a622fc5dd8adcdd27ea42218385013b4",
